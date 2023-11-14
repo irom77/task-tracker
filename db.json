@@ -7,16 +7,10 @@
       "reminder": true
     },
     {
-      "text": "task1",
-      "day": "today",
-      "reminder": false,
-      "id": 3
-    },
-    {
-      "text": "task2",
-      "day": "tomorrow",
-      "reminder": true,
-      "id": 4
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true
     }
   ]
 }
